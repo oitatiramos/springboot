@@ -31,6 +31,22 @@ Eles se comunicam através de:
 
 ---
 
+## ✅ O que é REST
+
+**REST** (Representational State Transfer) é um estilo de comunicação usado em webservices que utiliza o protocolo **HTTP** (o mesmo usado para acessar sites). Ele trabalha com URLs simples, como: https://meusite.com/usuarios/1
+
+
+As informações geralmente são trocadas em **JSON** (ou às vezes **XML**). É uma abordagem **leve, rápida e fácil de entender**.
+
+---
+
+## ✅ O que é SOAP
+
+**SOAP** (Simple Object Access Protocol) é um protocolo mais **formal e padronizado** para comunicação entre sistemas. Ele usa **XML** para trocar mensagens e segue regras mais rígidas — como uma “receita de bolo” que deve ser seguida.
+
+Embora também possa usar o protocolo **HTTP**, o SOAP tem **mais estrutura e complexidade**, exigindo mais “papelada” para funcionar corretamente.
+
+
 ### ⚔️ REST vs SOAP
 
 | Característica        | REST                          | SOAP                             |
